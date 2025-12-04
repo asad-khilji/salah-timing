@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Salah Timings</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="container">
+        <h1>Salah Times</h1>
+
+        <label for="citySelect">Choose City:</label>
+        <select id="citySelect">
+            <option value="">-- Select City --</option>
+            <option value="budd-lake.json">Budd Lake</option>
+            <option value="flanders.json">Flanders</option>
+            <option value="rockaway.json">Rockaway</option>
+            <option value="montclair.json">Montclair</option>
+        </select>
+
+        <div id="times" class="times-section hidden">
+            <h2 id="cityName"></h2>
+
+            <table>
+                <thead>
+                    <tr>
+                        <th>Prayer</th>
+                        <th>Azan</th>
+                        <th>Iqama</th>
+                    </tr>
+                </thead>
+                <tbody id="prayerTable"></tbody>
+            </table>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+
+</body>
+</html>
