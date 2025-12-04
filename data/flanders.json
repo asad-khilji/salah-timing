@@ -2,7 +2,7 @@
     "city": "Flanders",
     "timings": [
         { "prayer": "Fajr", "azan": "5:46 AM", "iqama": "6:00 AM" },
-        { "prayer": "Dhuhr", "azan": "7:07 AM", "iqama": "" },
+        { "prayer": "Sunrise", "azan": "7:07 AM", "iqama": "" },
         { "prayer": "Dhuhr", "azan": "11:49 AM", "iqama": "1:15 PM" },
         { "prayer": "Asr", "azan": "2:13 PM", "iqama": "3:00 PM" },
         { "prayer": "Maghrib", "azan": "4:31 PM", "iqama": "4:45 PM" },
