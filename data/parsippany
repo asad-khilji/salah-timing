@@ -1,0 +1,11 @@
+{
+    "city": "Parsippany",
+    "timings": [
+        { "prayer": "Fajr", "azan": "5:45 AM", "iqama": "6:10 AM" },
+        { "prayer": "Sunrise", "azan": "7:06 AM", "iqama": "" },
+        { "prayer": "Jummah", "azan": "12:30 PM", "iqama": "1:00 PM" },
+        { "prayer": "Asr", "azan": "2:12 PM", "iqama": "3:00 PM" },
+        { "prayer": "Maghrib", "azan": "4:30 PM", "iqama": "4:40 PM" },
+        { "prayer": "Isha", "azan": "5:52 PM", "iqama": "7:30 PM" }
+    ]
+}
