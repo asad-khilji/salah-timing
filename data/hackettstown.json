@@ -1,0 +1,11 @@
+{
+    "city": "Hackettstown",
+    "timings": [
+        { "prayer": "Fajr", "azan": "5:46 AM", "iqama": "6:00 AM" },
+        { "prayer": "Sunrise", "azan": "7:07 AM", "iqama": "" },
+        { "prayer": "Jummah", "azan": "1:00 PM", "iqama": "1:30 PM" },
+        { "prayer": "Asr", "azan": "2:13 PM", "iqama": "3:00 PM" },
+        { "prayer": "Maghrib", "azan": "4:31 PM", "iqama": "4:36 PM" },
+        { "prayer": "Isha", "azan": "5:53 PM", "iqama": "8:00 PM" }
+    ]
+}
