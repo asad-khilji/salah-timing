@@ -3,7 +3,7 @@
     "timings": [
         { "prayer": "Fajr", "azan": "5:44 AM", "iqama": "6:00 AM" },
         { "prayer": "Sunrise", "azan": "7:05 AM", "iqama": "" },
-        { "prayer": "Dhuhr", "azan": "11:47 AM", "iqama": "11:50 PM" },
+        { "prayer": "Jummah", "azan": "12:15 PM", "iqama": "12:45 PM" },
         { "prayer": "Asr", "azan": "2:11 PM", "iqama": "2:15 PM" },
         { "prayer": "Maghrib", "azan": "4:29 PM", "iqama": "4:35 PM" },
         { "prayer": "Isha", "azan": "5:51 PM", "iqama": "5:55 PM" }
